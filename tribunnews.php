@@ -104,7 +104,7 @@ header {
 </style>
 <body>
 <header>
-  <a href="https://api.anubiskun.xyz"><h1>DEMO API REST TRIBUN NEWS</h1></a> <a href="#"><h3>CHECK SOURCE CODE</h3></a>
+  <a href="https://api.anubiskun.xyz"><h1>DEMO API REST TRIBUN NEWS</h1></a> <a href="https://github.com/anubiskun/demo-api-rest/blob/anubiskun/tribunnews.php"><h3>CHECK SOURCE CODE</h3></a>
 </header>
 <div class="band">
 <?php 
